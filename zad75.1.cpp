@@ -4,8 +4,6 @@ using namespace std;
 
 int main(){
 	
-cout << "test: " << 'c' - 'a' << endl;
-	
 	ifstream dane("tekst.txt");
 	string slowo;
 	vector<string> podpunkt1;
